@@ -1,0 +1,23 @@
+{
+  "name": "rjn-export",
+  "version": "0.0.1",
+  "description": "A front-end export utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crongjie/npm-rjn-export.git"
+  },
+  "keywords": [
+    "export",
+    "download"
+  ],
+  "author": "RJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crongjie/npm-rjn-export/issues"
+  },
+  "homepage": "https://github.com/crongjie/npm-rjn-export#readme"
+}
