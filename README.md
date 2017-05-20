@@ -44,7 +44,8 @@ exportCSV(
             B: 'Column 2'
         }
     }
-); 
+);
+
 </pre>
 
 
