@@ -4,11 +4,12 @@ A javascript front-end export utility.
 It can allow browser to download text file on the client side only(without server side).
 And it support export JSON file and CSV file.
 
-Install:
+<b>Install:<b/>
+<pre>
 npm install --save rjn-export
+</pre>
 
-
-Usage (ES6):
+<b>Usage (ES6):<b/>
 <pre>
 import { exportText, exportFile, exportJson, exportCSV } from 'rjn-export'
 
@@ -46,3 +47,6 @@ exportCSV(
 ); 
 </pre>
 
+
+<b>Demo<b/>
+<p>https://rawgit.com/crongjie/npm-rjn-demo/master/index.html#/npm-rjn-export</p>
